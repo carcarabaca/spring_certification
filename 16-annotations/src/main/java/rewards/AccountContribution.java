@@ -8,7 +8,7 @@ import common.money.Percentage;
 /**
  * A summary of a monetary contribution made to an account that was distributed among the account's beneficiaries.
  * 
- * A value object. Immutable.
+ * A value object. Immutable.Cambios en el comentarios
  */
 public class AccountContribution {
 
