@@ -15,7 +15,7 @@ public class TestInfrastructureConfig {
 
 	/**
 	 * Creates an in-memory "rewards" database populated 
-	 * with test data for fast testing
+	 * with test data for fast testing pequeñp cambio
 	 */
 	@Bean
 	public DataSource dataSource(){
