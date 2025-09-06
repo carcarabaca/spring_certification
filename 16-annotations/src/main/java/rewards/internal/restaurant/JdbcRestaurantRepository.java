@@ -122,8 +122,8 @@ public class JdbcRestaurantRepository implements RestaurantRepository {
 
     /**
      * Helper method that clears the cache of restaurants.
-     * This method should be called when a bean is destroyed.
-     */
+     * This  method should be called when a bean is destroyed.
+       */
     @PreDestroy
     public void clearRestaurantCache() {
         System.out.println("Clearing the restaurant cache");
