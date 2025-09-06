@@ -9,7 +9,7 @@ import common.money.MonetaryAmount;
  * For a dining to be eligible for reward, the credit card number should map to an account in the reward network. In
  * addition, the merchant number should map to a restaurant in the network.
  * 
- * A value object. Immutable.
+ * A value object. Immutable.Cambios en dinning
  */
 public class Dining {
 
