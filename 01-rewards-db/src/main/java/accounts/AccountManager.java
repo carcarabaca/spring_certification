@@ -10,6 +10,7 @@ import common.money.Percentage;
 /**
  * Manages access to account information. Used as the service layer component in
  * the <tt>mvc</tt> and <tt>security</tt> projects.
+ cambio
  */
 public interface AccountManager {
 
